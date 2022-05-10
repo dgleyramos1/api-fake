@@ -1,9 +1,53 @@
 {
-    "me": [
+    "profile": [
         {
             "name": "Dgley Ramos",
-            "idade": 28,
-            "cidade": "Catolé do Rocha"
+            "work": "Developer FullStack",
+            "description": "Desenvolvedor web, com amplo conhecimento, trabalhando em tecnologias web, proporcionando trabalho de qualidade.",
+            "image": "https://github.com/dgleyramos1/api-fake/blob/main/img/home/perfil-home.png?raw=true",
+            "contact": "#contato",
+            "links": {
+                "linkedin": "https://www.linkedin.com/in/dgleyramos/",
+                "github": "https://github.com/dgleyramos1",
+                "instagram": "https://www.instagram.com/dgleyramos/"
+            }
+        }
+    ],
+    "header": [
+        {
+            "logo": "https://github.com/dgleyramos1/api-fake/blob/main/img/header/logo.png?raw=true",
+            "list": {
+                "home": {
+                    "name": "Home",
+                    "path": "#home"
+                },
+                "sobre": {
+                    "name": "Sobre",
+                    "path": "#sobre"
+                },
+                "skills": {
+                    "name": "Skills",
+                    "path": "#skills"
+                },
+                "projetos": {
+                    "name": "Projetos",
+                    "path": "#projetos"
+                },
+                "contato": {
+                    "name": "Contato",
+                    "path": "#contato"
+                }
+            }
+        }
+    ],
+    "about": [
+        {
+            "description": "Desenvolvedor web, com amplo conhecimento, trabalhando em tecnologias web, proporcionando trabalho de qualidade.",
+            "experience": 1,
+            "projects": 0,
+            "company": 0,
+            "image": "https://github.com/dgleyramos1/api-fake/blob/main/img/about/about.jpg?raw=true",
+            "cv": "https://github.com/dgleyramos1/api-fake/raw/main/pdf/curriculo.pdf"
         }
     ],
     "projects": [
@@ -94,6 +138,39 @@
                     "demo": "https://dgleyramos1.github.io/netflix-DIO/",
                     "github": "https://github.com/dgleyramos1/annaBella"
                 }
+        }
+    ],
+    "footer": [
+        {
+            "logo": "https://github.com/dgleyramos1/api-fake/blob/main/img/footer/logo-footer.png?raw=true",
+            "work": "Developer FullStack",
+            "links": {
+                "linkedin": "https://www.linkedin.com/in/dgleyramos/",
+                "github": "https://github.com/dgleyramos1",
+                "instagram": "https://www.instagram.com/dgleyramos/"
+            },
+            "list": {
+                "home": {
+                    "name": "Home",
+                    "path": "#home"
+                },
+                "sobre": {
+                    "name": "Sobre",
+                    "path": "#sobre"
+                },
+                "skills": {
+                    "name": "Skills",
+                    "path": "#skills"
+                },
+                "projetos": {
+                    "name": "Projetos",
+                    "path": "#projetos"
+                },
+                "contato": {
+                    "name": "Contato",
+                    "path": "#contato"
+                }
+            }
         }
     ]
 }
