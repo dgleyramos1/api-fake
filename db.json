@@ -5,5 +5,18 @@
             "idade": 28,
             "cidade": "Catolé do Rocha"
         }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "name": "Allianz",
+            "description": "Allianz Contabilidade Responsive Website, With a beautiful user interface. It contains a Header, Home, About, Services, Faq, Contact and Footer.",
+            "image": "",
+            "links": {
+
+                    "demo": "https://dgleyramos1.github.io/allianz-contabilidade/",
+                    "github": "https://github.com/dgleyramos1/allianz-contabilidade"
+                }
+        }
     ]
 }
