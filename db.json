@@ -3,7 +3,9 @@
         {
             "name": "Dgley Ramos",
             "work": "Developer FullStack",
-            "description": "Seja bem-vindo(a) ao meu lugarzinho reservado na web, aqui você encontrará informações de projetos, habilidades, contato e claro algumas informações sobre mim.\\nCaso desejem saber mais informações, não hesitem entrar em contato.<br/>Ao final desta página deixo alguns formas  de comunicação possíveis.",
+            "desc-one": "Seja bem-vindo(a) ao meu lugarzinho reservado na web, aqui você encontrará informações de projetos, habilidades, contato e claro algumas informações sobre mim.",
+            "desc-two": "Caso desejem saber mais informações, não hesitem entrar em contato.",
+            "desc-three": "Ao final desta página deixo alguns formas  de comunicação possíveis.",
             "image": "https://github.com/dgleyramos1/api-fake/blob/main/img/home/perfil-home.png?raw=true",
             "contact": "#contato",
             "links": {
@@ -42,10 +44,9 @@
     ],
     "about": [
         {
-            "description": "Olá, me chamo Dgley Ramos, 28 anos e nascido na cidade de João Pessoa-PB. Moro em uma cidade do interior do mesmo estado, chamada Catolé do Rocha, onde vivi grande parte da minha vida.<br/> Ultimamente estou estudando e trabalhando com as tecnologias React Js e Node Js de forma mais direta, e também tenho tido algumas experiências utilizando a linguagem Java.<br/> Sou uma pessoa bem comunicativa, trabalho bem em equipe, costumo ser proativo e no momento estou em busca de uma oportunidade de entrar nesse mercado tecnológico e mostrar meu potencial, além de evoluir em meus aprendizados.",
-            "experience": 1,
-            "projects": 0,
-            "company": 0,
+            "desc-one": "Olá, me chamo Dgley Ramos, 28 anos e nascido na cidade de João Pessoa-PB. Moro em uma cidade do interior do mesmo estado, chamada Catolé do Rocha, onde vivi grande parte da minha vida.",
+            "desc-two": "Ultimamente estou estudando e trabalhando com as tecnologias React Js e Node Js de forma mais direta, e também tenho tido algumas experiências utilizando a linguagem Java.",
+            "desc-three": "Sou uma pessoa bem comunicativa, trabalho bem em equipe, costumo ser proativo e no momento estou em busca de uma oportunidade de entrar nesse mercado tecnológico e mostrar meu potencial, além de evoluir em meus aprendizados.",
             "image": "https://github.com/dgleyramos1/api-fake/blob/main/img/about/about.jpg?raw=true",
             "cv": "https://github.com/dgleyramos1/api-fake/raw/main/pdf/curriculo.pdf"
         }
