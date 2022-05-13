@@ -3,7 +3,7 @@
         {
             "name": "Dgley Ramos",
             "work": "Developer FullStack",
-            "description": "Seja bem-vindo(a) ao meu lugarzinho reservado na web, aqui você encontrará informações de projetos, habilidades, contato e claro algumas informações sobre mim.'\n' Caso desejem saber mais informações, não hesitem entrar em contato.'\n' Ao final desta página deixo alguns formas  de comunicação possíveis.",
+            "description": "Seja bem-vindo(a) ao meu lugarzinho reservado na web, aqui você encontrará informações de projetos, habilidades, contato e claro algumas informações sobre mim.'<br/>' Caso desejem saber mais informações, não hesitem entrar em contato.'<br/>' Ao final desta página deixo alguns formas  de comunicação possíveis.",
             "image": "https://github.com/dgleyramos1/api-fake/blob/main/img/home/perfil-home.png?raw=true",
             "contact": "#contato",
             "links": {
